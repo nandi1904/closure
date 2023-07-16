@@ -1,0 +1,2 @@
+# closure
+python file
